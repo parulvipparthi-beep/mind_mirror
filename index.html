@@ -8,7 +8,7 @@
     <!-- Tailwind CSS for styling -->
     <script src="https://jsdelivr.net"></script>
 
-    <!-- Import Map: Tells the browser where to download packages when it sees an "import" statement -->
+    <!-- Import Map to resolve packages -->
     <script type="importmap">
       {
         "imports": {
@@ -20,16 +20,16 @@
       }
     </script>
 
-    <!-- ES Module Shims for older browser compatibility -->
+    <!-- ES Module Shims for browser compatibility -->
     <script async src="https://esm.sh"></script>
     
-    <!-- Babel standalone to compile JSX directly in browser -->
-    <script src="https://unpkg.com"></script>
+    <!-- Babel standalone to compile JSX -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 </head>
 <body class="bg-gray-50 text-gray-900">
     <div id="root"></div>
 
-    <!-- Note type="text/babel" and data-type="module" so imports/exports and JSX both work together -->
-    <script type="text/babel" data-type="module" src="inner_mirror.jsx"></script>
+    <!-- ADDED data-presets="env,react" to explicitly enable the module compiler environment -->
+    <script type="text/babel" data-type="module" data-presets="env,react" src="inner_mirror.jsx"></script>
 </body>
 </html>
