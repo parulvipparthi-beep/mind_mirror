@@ -1,4 +1,5 @@
-import { useState, useEffect, useRef } from "react";
+import React from "react";
+const { useState, useEffect, useRef } = React; // 🚀 Use this safe mapping instead
 import { LineChart, Line, XAxis, YAxis, ResponsiveContainer, Tooltip } from "recharts";
 
 /* ── FONTS ── */
@@ -870,10 +871,9 @@ export default function InnerMirror() {
   );
 }
 
-import React from 'react';
 import { createRoot } from 'react-dom/client';
 
-// Mounts your app to the webpage shell
 const container = document.getElementById('root');
 const root = createRoot(container);
-root.render(<InnerMirror />);
+root.render(<InnerMirror />); 
+
