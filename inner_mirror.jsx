@@ -1,3 +1,5 @@
+import React, { useState, useEffect, useRef } from "react";
+import { LineChart, Line, XAxis, YAxis, ResponsiveContainer, Tooltip } from "recharts";
 const { useState, useEffect, useRef } = React; // 🚀 Use this safe mapping instead
 
 
@@ -873,4 +875,4 @@ function InnerMirror() {
 const container = document.getElementById('root');
 const root = ReactDOM.createRoot(container);
 root.render(React.createElement(InnerMirror));
-
+export default InnerMirror;
