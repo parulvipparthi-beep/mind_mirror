@@ -1,0 +1,485 @@
+{
+  "people": {
+    "Me": {
+      "entries": [
+        {
+          "createdAt": "2026-05-29T10:47:03.333Z",
+          "text": "My special needs daughter is experimenting weird things when she is left alone and bored. Like emptying soaps and shampoos in a wash basin. Her activities make me irritated and anxious but i am also happy that she is learning to get independent",
+          "signalScores": {
+            "fear": 1,
+            "anger": 1,
+            "sadness": 0,
+            "guilt": 0,
+            "jealousy": 0,
+            "pride": 0,
+            "restlessness": 1,
+            "confusion": 0,
+            "care": 0,
+            "honesty": 0,
+            "restraint": 0
+          },
+          "patterns": {
+            "approval seeking": 0,
+            "control": 0,
+            "avoidance": 0,
+            "attachment to outcome": 0,
+            "self-criticism": 0,
+            "relationship reactivity": 0,
+            "moral tension": 0,
+            "presence": 0
+          },
+          "dominant": [
+            "fear",
+            "anger",
+            "restlessness"
+          ],
+          "sections": {
+            "Emotional Landscape": "The emotional field appears fear, anger, restlessness. There is a search for safety and reassurance beneath the surface. A boundary, expectation, or hurt appears to be asking for honest attention. The mind seems pulled toward stimulation or escape from discomfort. The entry suggests a person trying to make sense of pressure without wanting to become harsh toward themselves or others.",
+            "What the Mind Seems to Be Seeking": "The mind seems to be seeking fairness, respect, or repair. The anger may be pointing toward a boundary that needs clearer expression.",
+            "Core Mental Patterns": "No single pattern dominates yet. The mind may be processing the day in a broad way, with several smaller concerns rather than one repeated loop.",
+            "Hidden Sources of Stress": "A hidden source of stress may be resistance to the feeling itself. The effort to push away discomfort can become heavier than the original situation.",
+            "Comparison with Previous Journals": "This is the first saved entry for this person, so comparison will become more meaningful as more reflections are added.",
+            "Strengths and Positive Qualities": "A strength here is the act of writing itself: stopping long enough to look at experience instead of being completely carried by it.",
+            "Blind Spots": "One blind spot may be focusing mainly on what happened outside while the deeper habit inside remains unnamed.",
+            "Reflection for Daily Life": "For daily life, separate the boundary from the heat around it. The boundary may be valid even if the first impulse needs time to settle.",
+            "A Question for Self-Inquiry": "What is the deeper need underneath the strongest feeling in this entry?",
+            "Closing Insight": "Fear softens when it is met with steadiness instead of argument."
+          }
+        },
+        {
+          "createdAt": "2026-05-29T10:53:33.181Z",
+          "text": "Today was exhausting. I spent most of the day thinking about a promotion that might happen next quarter. I kept comparing myself to my colleagues and wondering why some people seem to advance faster than me.\n\nWhen my manager praised another team member during the meeting, I felt irritated. I smiled outwardly, but internally I felt jealous. I kept replaying the moment throughout the day.\n\nAt home, my daughter wanted to show me a drawing she had made, but I was busy checking emails. I told her I would look at it later. By the time I remembered, she had gone to sleep.\n\nI earned well this month, but strangely I don't feel satisfied.",
+          "signalScores": {
+            "fear": 0,
+            "anger": 1,
+            "sadness": 0,
+            "guilt": 0,
+            "jealousy": 1,
+            "pride": 0,
+            "restlessness": 0,
+            "confusion": 0,
+            "care": 0,
+            "honesty": 0,
+            "restraint": 0
+          },
+          "patterns": {
+            "approval seeking": 0,
+            "control": 0,
+            "avoidance": 0,
+            "attachment to outcome": 0,
+            "self-criticism": 0,
+            "relationship reactivity": 0,
+            "moral tension": 0,
+            "presence": 0
+          },
+          "dominant": [
+            "anger",
+            "jealousy"
+          ],
+          "sections": {
+            "Emotional Landscape": "The emotional field appears anger, jealousy. A boundary, expectation, or hurt appears to be asking for honest attention. The mind may be measuring worth through comparison or fear of being replaced. The entry suggests a person trying to make sense of pressure without wanting to become harsh toward themselves or others.",
+            "What the Mind Seems to Be Seeking": "The mind seems to be seeking fairness, respect, or repair. The anger may be pointing toward a boundary that needs clearer expression.",
+            "Core Mental Patterns": "No single pattern dominates yet. The mind may be processing the day in a broad way, with several smaller concerns rather than one repeated loop.",
+            "Hidden Sources of Stress": "A hidden source of stress may be resistance to the feeling itself. The effort to push away discomfort can become heavier than the original situation.",
+            "Comparison with Previous Journals": "The entry does not sharply depart from earlier writing. The overall movement looks steady rather than dramatic.",
+            "Strengths and Positive Qualities": "A strength here is the act of writing itself: stopping long enough to look at experience instead of being completely carried by it.",
+            "Blind Spots": "One blind spot may be focusing mainly on what happened outside while the deeper habit inside remains unnamed.",
+            "Reflection for Daily Life": "For daily life, separate the boundary from the heat around it. The boundary may be valid even if the first impulse needs time to settle.",
+            "A Question for Self-Inquiry": "What is the deeper need underneath the strongest feeling in this entry?",
+            "Closing Insight": "A clear boundary does not need a burning mind to be strong."
+          }
+        },
+        {
+          "createdAt": "2026-05-29T10:54:00.922Z",
+          "text": "I had an argument with my spouse today.\n\nThe issue was small, but I reacted strongly. I felt she was criticizing me unfairly and immediately became defensive. Later I realized I wasn't really angry about the situation. I was angry because I felt unappreciated.\n\nI noticed that whenever someone questions my decisions, I become uncomfortable. Maybe I depend too much on being seen as competent.\n\nThe argument lasted only twenty minutes, but the heaviness stayed with me for the rest of the day.",
+          "signalScores": {
+            "fear": 0,
+            "anger": 2,
+            "sadness": 0,
+            "guilt": 0,
+            "jealousy": 0,
+            "pride": 0,
+            "restlessness": 0,
+            "confusion": 0,
+            "care": 0,
+            "honesty": 2,
+            "restraint": 0
+          },
+          "patterns": {
+            "approval seeking": 0,
+            "control": 0,
+            "avoidance": 0,
+            "attachment to outcome": 0,
+            "self-criticism": 0,
+            "relationship reactivity": 2,
+            "moral tension": 0,
+            "presence": 1
+          },
+          "dominant": [
+            "anger",
+            "honesty"
+          ],
+          "sections": {
+            "Emotional Landscape": "The emotional field appears anger, honesty. A boundary, expectation, or hurt appears to be asking for honest attention. The entry shows a willingness to look directly at experience. The entry suggests a person trying to make sense of pressure without wanting to become harsh toward themselves or others.",
+            "What the Mind Seems to Be Seeking": "The mind seems to be seeking fairness, respect, or repair. The anger may be pointing toward a boundary that needs clearer expression.",
+            "Core Mental Patterns": "The strongest visible patterns are relationship reactivity and presence. These patterns may shape attention by making some details feel urgent while quieter needs remain harder to hear.",
+            "Hidden Sources of Stress": "A hidden source of stress may be reading another person's tone, delay, or behavior as proof of personal worth. That can make relationships feel like constant emotional weather.",
+            "Comparison with Previous Journals": "relationship reactivity and presence appear stronger in this entry than in previous ones. Watch these shifts gently; they are clues about where attention is repeatedly drawn.",
+            "Strengths and Positive Qualities": "Visible strengths include honest self-observation. These qualities can be strengthened by noticing the small moments where they already appear.",
+            "Blind Spots": "One blind spot may be focusing mainly on what happened outside while the deeper habit inside remains unnamed.",
+            "Reflection for Daily Life": "For daily life, separate the boundary from the heat around it. The boundary may be valid even if the first impulse needs time to settle.",
+            "A Question for Self-Inquiry": "What did I need in that relationship moment, and did I ask for it clearly or try to make the other person guess?",
+            "Closing Insight": "A clear boundary does not need a burning mind to be strong."
+          }
+        },
+        {
+          "createdAt": "2026-05-29T10:55:04.313Z",
+          "text": "Work has become increasingly stressful.\n\nI find myself checking stock prices every hour. Even when I am with family, my mind keeps thinking about investments and future financial goals.\n\nI often tell myself that I am doing all this for my family, but sometimes I wonder whether I am simply chasing a moving target.\n\nEvery financial milestone gives temporary happiness and then another goal appears.\n\nI don't know what \"enough\" looks like anymore.",
+          "signalScores": {
+            "fear": 0,
+            "anger": 0,
+            "sadness": 0,
+            "guilt": 0,
+            "jealousy": 0,
+            "pride": 0,
+            "restlessness": 0,
+            "confusion": 1,
+            "care": 0,
+            "honesty": 0,
+            "restraint": 0
+          },
+          "patterns": {
+            "approval seeking": 0,
+            "control": 0,
+            "avoidance": 0,
+            "attachment to outcome": 0,
+            "self-criticism": 0,
+            "relationship reactivity": 2,
+            "moral tension": 0,
+            "presence": 0
+          },
+          "dominant": [
+            "confusion"
+          ],
+          "sections": {
+            "Emotional Landscape": "The emotional field appears confusion. There is uncertainty about what is true, what matters, or what to do next. The entry suggests a person trying to make sense of pressure without wanting to become harsh toward themselves or others.",
+            "What the Mind Seems to Be Seeking": "The mind seems to be seeking clarity, steadiness, and a more honest relationship with what happened.",
+            "Core Mental Patterns": "The strongest visible patterns are relationship reactivity. These patterns may shape attention by making some details feel urgent while quieter needs remain harder to hear.",
+            "Hidden Sources of Stress": "A hidden source of stress may be reading another person's tone, delay, or behavior as proof of personal worth. That can make relationships feel like constant emotional weather.",
+            "Comparison with Previous Journals": "relationship reactivity appear stronger in this entry than in previous ones. presence continue to repeat with similar force. Watch these shifts gently; they are clues about where attention is repeatedly drawn.",
+            "Strengths and Positive Qualities": "A strength here is the act of writing itself: stopping long enough to look at experience instead of being completely carried by it.",
+            "Blind Spots": "One blind spot may be focusing mainly on what happened outside while the deeper habit inside remains unnamed.",
+            "Reflection for Daily Life": "For daily life, keep returning to the difference between the event, the feeling, and the story added around it. That distinction creates room for wiser action.",
+            "A Question for Self-Inquiry": "What did I need in that relationship moment, and did I ask for it clearly or try to make the other person guess?",
+            "Closing Insight": "What is seen clearly has already begun to loosen its grip."
+          }
+        },
+        {
+          "createdAt": "2026-05-29T10:55:25.490Z",
+          "text": "Today I met an old friend.\n\nHe earns much less than I do, yet he seemed happier and more relaxed. He spent the evening talking about his children, gardening, and books he enjoys reading.\n\nOn the drive home, I felt confused.\n\nFor years I believed success would automatically create happiness. Yet many people around me who have achieved a lot seem stressed and dissatisfied.\n\nMaybe I have been measuring success too narrowly.",
+          "signalScores": {
+            "fear": 0,
+            "anger": 0,
+            "sadness": 0,
+            "guilt": 0,
+            "jealousy": 0,
+            "pride": 0,
+            "restlessness": 0,
+            "confusion": 1,
+            "care": 0,
+            "honesty": 0,
+            "restraint": 0
+          },
+          "patterns": {
+            "approval seeking": 0,
+            "control": 0,
+            "avoidance": 0,
+            "attachment to outcome": 2,
+            "self-criticism": 0,
+            "relationship reactivity": 1,
+            "moral tension": 0,
+            "presence": 0
+          },
+          "dominant": [
+            "confusion"
+          ],
+          "sections": {
+            "Emotional Landscape": "The emotional field appears confusion. There is uncertainty about what is true, what matters, or what to do next. The entry suggests a person trying to make sense of pressure without wanting to become harsh toward themselves or others.",
+            "What the Mind Seems to Be Seeking": "The mind seems to be seeking clarity, steadiness, and a more honest relationship with what happened.",
+            "Core Mental Patterns": "The strongest visible patterns are attachment to outcome and relationship reactivity. These patterns may shape attention by making some details feel urgent while quieter needs remain harder to hear.",
+            "Hidden Sources of Stress": "A hidden source of stress may be the belief that peace has to wait until a specific result arrives. This places well-being under the control of uncertain conditions.",
+            "Comparison with Previous Journals": "attachment to outcome appear stronger in this entry than in previous ones. relationship reactivity and presence continue to repeat with similar force. Watch these shifts gently; they are clues about where attention is repeatedly drawn.",
+            "Strengths and Positive Qualities": "A strength here is the act of writing itself: stopping long enough to look at experience instead of being completely carried by it.",
+            "Blind Spots": "One blind spot may be focusing mainly on what happened outside while the deeper habit inside remains unnamed.",
+            "Reflection for Daily Life": "For daily life, keep returning to the difference between the event, the feeling, and the story added around it. That distinction creates room for wiser action.",
+            "A Question for Self-Inquiry": "Who would I be in this situation if I cared deeply, but did not place my peace entirely inside the result?",
+            "Closing Insight": "What is seen clearly has already begun to loosen its grip."
+          }
+        },
+        {
+          "createdAt": "2026-05-29T10:56:12.370Z",
+          "text": "I caught myself gossiping today.\n\nA colleague made a mistake and I discussed it with another coworker. At the time it felt harmless, but later I realized I was trying to feel superior.\n\nThis was uncomfortable to admit.\n\nThe mistake had nothing to do with me, yet I spent nearly thirty minutes discussing it.\n\nPerhaps I enjoy feeling better than others more than I realize.",
+          "signalScores": {
+            "fear": 0,
+            "anger": 0,
+            "sadness": 0,
+            "guilt": 2,
+            "jealousy": 0,
+            "pride": 1,
+            "restlessness": 0,
+            "confusion": 0,
+            "care": 0,
+            "honesty": 2,
+            "restraint": 0
+          },
+          "patterns": {
+            "approval seeking": 0,
+            "control": 0,
+            "avoidance": 0,
+            "attachment to outcome": 0,
+            "self-criticism": 0,
+            "relationship reactivity": 0,
+            "moral tension": 0,
+            "presence": 0
+          },
+          "dominant": [
+            "guilt",
+            "honesty",
+            "pride"
+          ],
+          "sections": {
+            "Emotional Landscape": "The emotional field appears guilt, honesty, pride. There is concern about having caused harm or fallen short of personal values. The entry shows a willingness to look directly at experience. A wish to be seen, respected, or protected from humiliation is present. The entry suggests a person trying to make sense of pressure without wanting to become harsh toward themselves or others.",
+            "What the Mind Seems to Be Seeking": "The mind seems to be seeking clarity, steadiness, and a more honest relationship with what happened.",
+            "Core Mental Patterns": "No single pattern dominates yet. The mind may be processing the day in a broad way, with several smaller concerns rather than one repeated loop.",
+            "Hidden Sources of Stress": "A hidden source of stress may be resistance to the feeling itself. The effort to push away discomfort can become heavier than the original situation.",
+            "Comparison with Previous Journals": "relationship reactivity appear softer than before. attachment to outcome and presence continue to repeat with similar force. Watch these shifts gently; they are clues about where attention is repeatedly drawn.",
+            "Strengths and Positive Qualities": "Visible strengths include honest self-observation. These qualities can be strengthened by noticing the small moments where they already appear.",
+            "Blind Spots": "One blind spot may be the need to be right or respected becoming louder than the wish to understand. Softening that stance can protect connection.",
+            "Reflection for Daily Life": "For daily life, keep returning to the difference between the event, the feeling, and the story added around it. That distinction creates room for wiser action.",
+            "A Question for Self-Inquiry": "What is the deeper need underneath the strongest feeling in this entry?",
+            "Closing Insight": "What is seen clearly has already begun to loosen its grip."
+          }
+        },
+        {
+          "createdAt": "2026-05-29T10:56:38.410Z",
+          "text": "I spent the weekend without social media.\n\nThe first day felt strange. I kept reaching for my phone automatically.\n\nBy the second day I felt calmer.\n\nI noticed birds in the garden. I played with my daughter without thinking about work. I even sat quietly for twenty minutes without feeling restless.\n\nIt made me realize how much mental noise I normally live with.",
+          "signalScores": {
+            "fear": 0,
+            "anger": 0,
+            "sadness": 0,
+            "guilt": 0,
+            "jealousy": 0,
+            "pride": 0,
+            "restlessness": 1,
+            "confusion": 0,
+            "care": 0,
+            "honesty": 1,
+            "restraint": 0
+          },
+          "patterns": {
+            "approval seeking": 0,
+            "control": 0,
+            "avoidance": 0,
+            "attachment to outcome": 0,
+            "self-criticism": 0,
+            "relationship reactivity": 0,
+            "moral tension": 0,
+            "presence": 1
+          },
+          "dominant": [
+            "restlessness",
+            "honesty"
+          ],
+          "sections": {
+            "Emotional Landscape": "The emotional field appears restlessness, honesty. The mind seems pulled toward stimulation or escape from discomfort. The entry shows a willingness to look directly at experience. The entry suggests a person trying to make sense of pressure without wanting to become harsh toward themselves or others.",
+            "What the Mind Seems to Be Seeking": "The mind seems to be seeking clarity, steadiness, and a more honest relationship with what happened.",
+            "Core Mental Patterns": "The strongest visible patterns are presence. These patterns may shape attention by making some details feel urgent while quieter needs remain harder to hear.",
+            "Hidden Sources of Stress": "A hidden source of stress may be resistance to the feeling itself. The effort to push away discomfort can become heavier than the original situation.",
+            "Comparison with Previous Journals": "presence appear stronger in this entry than in previous ones. relationship reactivity appear softer than before. attachment to outcome continue to repeat with similar force. Watch these shifts gently; they are clues about where attention is repeatedly drawn.",
+            "Strengths and Positive Qualities": "Visible strengths include honest self-observation. These qualities can be strengthened by noticing the small moments where they already appear.",
+            "Blind Spots": "One blind spot may be focusing mainly on what happened outside while the deeper habit inside remains unnamed.",
+            "Reflection for Daily Life": "For daily life, keep returning to the difference between the event, the feeling, and the story added around it. That distinction creates room for wiser action.",
+            "A Question for Self-Inquiry": "What is the deeper need underneath the strongest feeling in this entry?",
+            "Closing Insight": "What is seen clearly has already begun to loosen its grip."
+          }
+        },
+        {
+          "createdAt": "2026-05-29T10:57:11.273Z",
+          "text": "A difficult situation happened at work today.\n\nSomeone took credit for an idea I had contributed to. I felt angry and wanted to confront them immediately.\n\nInstead, I waited until the evening.\n\nWhen I looked closely, I realized the strongest feeling wasn't anger—it was hurt pride.\n\nI wanted recognition.\n\nThe situation still bothers me, but I can see my reaction more clearly now.",
+          "signalScores": {
+            "fear": 0,
+            "anger": 1,
+            "sadness": 1,
+            "guilt": 0,
+            "jealousy": 0,
+            "pride": 0,
+            "restlessness": 0,
+            "confusion": 0,
+            "care": 0,
+            "honesty": 1,
+            "restraint": 1
+          },
+          "patterns": {
+            "approval seeking": 0,
+            "control": 0,
+            "avoidance": 0,
+            "attachment to outcome": 0,
+            "self-criticism": 0,
+            "relationship reactivity": 0,
+            "moral tension": 0,
+            "presence": 0
+          },
+          "dominant": [
+            "anger",
+            "sadness",
+            "honesty",
+            "restraint"
+          ],
+          "sections": {
+            "Emotional Landscape": "The emotional field appears anger, sadness, honesty, restraint. A boundary, expectation, or hurt appears to be asking for honest attention. The heart seems to be carrying loss, disappointment, or a wish to feel held. The entry shows a willingness to look directly at experience. There is growing space between impulse and action. The entry suggests a person trying to make sense of pressure without wanting to become harsh toward themselves or others.",
+            "What the Mind Seems to Be Seeking": "The mind seems to be seeking fairness, respect, or repair. The anger may be pointing toward a boundary that needs clearer expression.",
+            "Core Mental Patterns": "No single pattern dominates yet. The mind may be processing the day in a broad way, with several smaller concerns rather than one repeated loop.",
+            "Hidden Sources of Stress": "A hidden source of stress may be resistance to the feeling itself. The effort to push away discomfort can become heavier than the original situation.",
+            "Comparison with Previous Journals": "relationship reactivity, attachment to outcome, and presence continue to repeat with similar force. Watch these shifts gently; they are clues about where attention is repeatedly drawn.",
+            "Strengths and Positive Qualities": "Visible strengths include honest self-observation and restraint before reacting. These qualities can be strengthened by noticing the small moments where they already appear.",
+            "Blind Spots": "One blind spot may be focusing mainly on what happened outside while the deeper habit inside remains unnamed.",
+            "Reflection for Daily Life": "For daily life, separate the boundary from the heat around it. The boundary may be valid even if the first impulse needs time to settle.",
+            "A Question for Self-Inquiry": "What is the deeper need underneath the strongest feeling in this entry?",
+            "Closing Insight": "A moment of pause can change the direction of a whole day."
+          }
+        },
+        {
+          "createdAt": "2026-05-29T10:57:53.778Z",
+          "text": "My father called today.\n\nWe spoke about some old family disagreements. Normally these conversations trigger frustration, but today I mostly listened.\n\nFor the first time, I could see that he was carrying his own fears and disappointments.\n\nThe conversation wasn't perfect, but it felt softer.\n\nMaybe understanding another person's suffering is more useful than proving who is right.",
+          "signalScores": {
+            "fear": 0,
+            "anger": 0,
+            "sadness": 0,
+            "guilt": 0,
+            "jealousy": 0,
+            "pride": 1,
+            "restlessness": 0,
+            "confusion": 0,
+            "care": 0,
+            "honesty": 0,
+            "restraint": 0
+          },
+          "patterns": {
+            "approval seeking": 0,
+            "control": 1,
+            "avoidance": 0,
+            "attachment to outcome": 0,
+            "self-criticism": 0,
+            "relationship reactivity": 1,
+            "moral tension": 0,
+            "presence": 0
+          },
+          "dominant": [
+            "pride"
+          ],
+          "sections": {
+            "Emotional Landscape": "The emotional field appears pride. A wish to be seen, respected, or protected from humiliation is present. The entry suggests a person trying to make sense of pressure without wanting to become harsh toward themselves or others.",
+            "What the Mind Seems to Be Seeking": "The mind seems to be seeking certainty and control. It may be trying to prevent pain by tightening around plans, standards, or other people's responses.",
+            "Core Mental Patterns": "The strongest visible patterns are control and relationship reactivity. These patterns may shape attention by making some details feel urgent while quieter needs remain harder to hear.",
+            "Hidden Sources of Stress": "A hidden source of stress may be reading another person's tone, delay, or behavior as proof of personal worth. That can make relationships feel like constant emotional weather.",
+            "Comparison with Previous Journals": "control appear stronger in this entry than in previous ones. relationship reactivity, attachment to outcome, and presence continue to repeat with similar force. Watch these shifts gently; they are clues about where attention is repeatedly drawn.",
+            "Strengths and Positive Qualities": "A strength here is the act of writing itself: stopping long enough to look at experience instead of being completely carried by it.",
+            "Blind Spots": "One blind spot may be treating uncertainty as danger. Some situations need wise effort, while others need room to unfold without constant tightening.",
+            "Reflection for Daily Life": "For daily life, keep returning to the difference between the event, the feeling, and the story added around it. That distinction creates room for wiser action.",
+            "A Question for Self-Inquiry": "What did I need in that relationship moment, and did I ask for it clearly or try to make the other person guess?",
+            "Closing Insight": "What is seen clearly has already begun to loosen its grip."
+          }
+        },
+        {
+          "createdAt": "2026-05-29T10:59:00.818Z",
+          "text": "Something interesting happened this week.\n\nSeveral things went wrong:\n\na project was delayed,\nan investment declined,\nand my travel plans changed.\n\nYet I noticed less panic than usual.\n\nThe problems were still unpleasant, but they didn't completely take over my mind.\n\nA few years ago, I would have spent days worrying.\n\nPerhaps I am slowly learning how to respond instead of react.",
+          "signalScores": {
+            "fear": 1,
+            "anger": 0,
+            "sadness": 0,
+            "guilt": 0,
+            "jealousy": 0,
+            "pride": 0,
+            "restlessness": 0,
+            "confusion": 0,
+            "care": 0,
+            "honesty": 1,
+            "restraint": 0
+          },
+          "patterns": {
+            "approval seeking": 0,
+            "control": 0,
+            "avoidance": 0,
+            "attachment to outcome": 0,
+            "self-criticism": 0,
+            "relationship reactivity": 0,
+            "moral tension": 1,
+            "presence": 1
+          },
+          "dominant": [
+            "fear",
+            "honesty"
+          ],
+          "sections": {
+            "Emotional Landscape": "The emotional field appears fear, honesty. There is a search for safety and reassurance beneath the surface. The entry shows a willingness to look directly at experience. The entry suggests a person trying to make sense of pressure without wanting to become harsh toward themselves or others.",
+            "What the Mind Seems to Be Seeking": "The mind seems to be seeking safety before it can soften. It may be asking for steadiness, not more pressure.",
+            "Core Mental Patterns": "The strongest visible patterns are moral tension and presence. These patterns may shape attention by making some details feel urgent while quieter needs remain harder to hear.",
+            "Hidden Sources of Stress": "A hidden source of stress may be resistance to the feeling itself. The effort to push away discomfort can become heavier than the original situation.",
+            "Comparison with Previous Journals": "presence and moral tension appear stronger in this entry than in previous ones. relationship reactivity, attachment to outcome, and control continue to repeat with similar force. Watch these shifts gently; they are clues about where attention is repeatedly drawn.",
+            "Strengths and Positive Qualities": "Visible strengths include honest self-observation. These qualities can be strengthened by noticing the small moments where they already appear.",
+            "Blind Spots": "One blind spot may be focusing mainly on what happened outside while the deeper habit inside remains unnamed.",
+            "Reflection for Daily Life": "For daily life, give the nervous system one concrete sign of safety before solving the whole problem: slower breathing, a walk, or a clear next step.",
+            "A Question for Self-Inquiry": "What is the deeper need underneath the strongest feeling in this entry?",
+            "Closing Insight": "Fear softens when it is met with steadiness instead of argument."
+          }
+        },
+        {
+          "createdAt": "2026-05-29T10:59:35.313Z",
+          "text": "Looking back over the last few months, I can see recurring patterns.\n\nI often seek validation through achievement.\nI compare myself with others.\nI worry about the future more than necessary.\nI become defensive when my image is challenged.\n\nBut I also notice some changes.\n\nI am becoming more aware of jealousy when it arises.\nI recover from anger more quickly.\nI spend more time listening.\nI feel more gratitude toward my family.\n\nMy external life has not changed dramatically.\n\nBut something about the way I relate to experiences feels different.\n\nThere is still a lot of work to do, but for the first time I feel less interested in becoming \"important\" and more interested in understanding myself.",
+          "signalScores": {
+            "fear": 1,
+            "anger": 0,
+            "sadness": 0,
+            "guilt": 0,
+            "jealousy": 0,
+            "pride": 0,
+            "restlessness": 0,
+            "confusion": 0,
+            "care": 0,
+            "honesty": 1,
+            "restraint": 0
+          },
+          "patterns": {
+            "approval seeking": 1,
+            "control": 0,
+            "avoidance": 0,
+            "attachment to outcome": 0,
+            "self-criticism": 0,
+            "relationship reactivity": 1,
+            "moral tension": 0,
+            "presence": 1
+          },
+          "dominant": [
+            "fear",
+            "honesty"
+          ],
+          "sections": {
+            "Emotional Landscape": "The emotional field appears fear, honesty. There is a search for safety and reassurance beneath the surface. The entry shows a willingness to look directly at experience. The entry suggests a person trying to make sense of pressure without wanting to become harsh toward themselves or others.",
+            "What the Mind Seems to Be Seeking": "The mind seems to be seeking reassurance that it is valued, chosen, or safe in the eyes of others. Beneath that is a tender wish to belong without having to perform.",
+            "Core Mental Patterns": "The strongest visible patterns are approval seeking, relationship reactivity, and presence. These patterns may shape attention by making some details feel urgent while quieter needs remain harder to hear.",
+            "Hidden Sources of Stress": "A hidden source of stress may be reading another person's tone, delay, or behavior as proof of personal worth. That can make relationships feel like constant emotional weather.",
+            "Comparison with Previous Journals": "approval seeking appear stronger in this entry than in previous ones. relationship reactivity, presence, and attachment to outcome continue to repeat with similar force. Watch these shifts gently; they are clues about where attention is repeatedly drawn.",
+            "Strengths and Positive Qualities": "Visible strengths include honest self-observation. These qualities can be strengthened by noticing the small moments where they already appear.",
+            "Blind Spots": "One blind spot may be giving other people's reactions too much authority over inner worth. Their responses matter, but they do not define the whole truth.",
+            "Reflection for Daily Life": "For daily life, give the nervous system one concrete sign of safety before solving the whole problem: slower breathing, a walk, or a clear next step.",
+            "A Question for Self-Inquiry": "What did I need in that relationship moment, and did I ask for it clearly or try to make the other person guess?",
+            "Closing Insight": "Fear softens when it is met with steadiness instead of argument."
+          }
+        }
+      ]
+    },
+    "Sonal": {
+      "entries": []
+    }
+  }
+}
