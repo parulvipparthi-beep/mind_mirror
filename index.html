@@ -8,21 +8,25 @@
     <!-- Tailwind CSS for UI styling -->
     <script src="https://jsdelivr.net"></script>
 
-    <!-- Direct CDN Scripts for React 18 Core Engine -->
-    <script src="https://unpkg.com" crossorigin></script>
-    <script src="https://unpkg.com" crossorigin></script>
+    <!-- Stable Alternative CDN Networks (cdnjs & jsdelivr) -->
+    <script src="https://cloudflare.com" crossorigin="anonymous"></script>
+    <script src="https://cloudflare.com" crossorigin></script>
     
-    <!-- Prop-Types and Recharts Direct Dependency Scripts -->
-    <script src="https://unpkg.com"></script>
-    <script src="https://unpkg.com"></script>
+    <!-- Recharts Core dependencies from alternative host -->
+    <script src="https://jsdelivr.net"></script>
+    <script src="https://jsdelivr.net"></script>
 
-    <!-- Babel standalone browser compiler -->
-    <script src="https://unpkg.com"></script>
+    <!-- Data script variables -->
+    <script src="clear-mirror-journal-data.js"></script>
+    <script src="inner-mirror-journal-data.js"></script>
+
+    <!-- Babel standalone browser compiler via cjsnio -->
+    <script src="https://cloudflare.com" crossorigin="anonymous"></script>
 </head>
 <body class="bg-gray-50 text-gray-900">
     <div id="root"></div>
 
-    <!-- Compiles your JSX directly via standard Babel scripts -->
+    <!-- Compiles your JSX directly -->
     <script type="text/babel" src="inner_mirror.jsx"></script>
 </body>
 </html>
