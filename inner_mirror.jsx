@@ -869,6 +869,11 @@ export default function InnerMirror() {
     </>
   );
 }
+
+import React from 'react';
+import { createRoot } from 'react-dom/client';
+
+// Mounts your app to the webpage shell
 const container = document.getElementById('root');
-const root = ReactDOM.createRoot(container);
+const root = createRoot(container);
 root.render(<InnerMirror />);
