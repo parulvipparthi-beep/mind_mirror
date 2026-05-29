@@ -1,6 +1,4 @@
-import React from "react";
 const { useState, useEffect, useRef } = React; // 🚀 Use this safe mapping instead
-import { LineChart, Line, XAxis, YAxis, ResponsiveContainer, Tooltip } from "recharts";
 
 import clearMirrorData from "./clear-mirror-journal-data.json" with { type: "json" };
 import innerMirrorData from "./inner-mirror-journal-data.json" with { type: "json" };
@@ -668,15 +666,15 @@ function GrowthTrendsPage() {
             <span style={{ fontSize:14, color:T.ter }}>ⓘ</span>
           </div>
           <div style={{ height:155 }}>
-            <ResponsiveContainer width="100%" height="100%">
-              <LineChart data={CHART_DATA} margin={{ top:4, right:4, bottom:0, left:-28 }}>
-                <XAxis dataKey="w" tick={{ fontSize:10, fill:T.ter }} axisLine={false} tickLine={false} interval={1} />
-                <YAxis hide />
-                <Tooltip contentStyle={{ fontSize:11, borderRadius:8, border:`1px solid ${T.border}` }} />
-                <Line type="monotone" dataKey="clarity"   stroke={T.accent} strokeWidth={2.5} dot={false} />
-                <Line type="monotone" dataKey="equanimity" stroke={T.accentMd} strokeWidth={2} dot={false} />
-              </LineChart>
-            </ResponsiveContainer>
+            <Recharts.ResponsiveContainer width="100%" height="100%">
+              <Recharts.LineChart data={CHART_DATA} margin={{ top:4, right:4, bottom:0, left:-28 }}>
+                <Recharts.XAxis dataKey="w" tick={{ fontSize:10, fill:T.ter }} axisLine={false} tickLine={false} interval={1} />
+                <Recharts.YAxis hide />
+                <Recharts.Tooltip contentStyle={{ fontSize:11, borderRadius:8, border:`1px solid ${T.border}` }} />
+                <Recharts.Line type="monotone" dataKey="clarity"   stroke={T.accent} strokeWidth={2.5} dot={false} />
+                <Recharts.Line type="monotone" dataKey="equanimity" stroke={T.accentMd} strokeWidth={2} dot={false} />
+              </Recharts.LineChart>
+            </Recharts.ResponsiveContainer>
           </div>
           <div style={{ display:"flex", gap:22, marginTop:12, padding:"0 4px" }}>
             {[["Clarity",T.accent],["Equanimity",T.accentMd]].map(([l,c])=>(
@@ -802,7 +800,7 @@ function BottomNav({ page, setPage }) {
 /* ══════════════════════════════════════════════
    ROOT APP
 ══════════════════════════════════════════════ */
-export default function InnerMirror() {
+function InnerMirror() {
   const [onboarded,    setOnboarded]    = useState(null);
   const [page,         setPage]         = useState("history");
   const [entries,      setEntries]      = useState(DEMO);
@@ -874,9 +872,7 @@ export default function InnerMirror() {
   );
 }
 
-import { createRoot } from 'react-dom/client';
-
 const container = document.getElementById('root');
-const root = createRoot(container);
-root.render(<InnerMirror />); 
+const root = ReactDOM.createRoot(container);
+root.render(React.createElement(InnerMirror));
 
