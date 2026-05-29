@@ -2,6 +2,9 @@ import React from "react";
 const { useState, useEffect, useRef } = React; // 🚀 Use this safe mapping instead
 import { LineChart, Line, XAxis, YAxis, ResponsiveContainer, Tooltip } from "recharts";
 
+import clearMirrorData from "./clear-mirror-journal-data.json" with { type: "json" };
+import innerMirrorData from "./inner-mirror-journal-data.json" with { type: "json" };
+
 /* ── FONTS ── */
 const FontLink = () => {
   useEffect(() => {
